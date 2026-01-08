@@ -12,10 +12,12 @@ Multithreading. Each client request is handled in a separate thread, ensuring no
 
 This repository serves as a basic foundation for creating a high-performance web server capable of handling multiple client requests concurrently, which is essential for building scalable and efficient web applications.
 
-How to Install 
-
+## How to Install 
+```bash
 git clone https://github.com/Iankulani/Concurrent-Web-Client-Gui.git
-
-How to run
-
+cd Concurrent-Web-Client-Gui
+```
+## How to run
+```bash
 python Concurrent-Web-Client-Gui.py
+```
